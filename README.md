@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning flat reconstructions (weird interface, legacy walls, not SOLID...)
 - 📫 How to reach me: milanlesnek@seznam.cz
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I started a Medicine university, but in software engineering is much less blood 🩸
+- ⚡ Fun fact: I started a Medical university, but in software engineering, there is much less blood 🩸
